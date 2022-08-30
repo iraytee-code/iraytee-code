@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iraytee-code
 - 👀 I’m A FROTEND DEVELOPMENT
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT
+- 🌱 I’m currently Using HTML, CSS, JAVASCRIPT, REACT, Tailwind, Bootstrap, Material Ui
 - 💞️ I’m looking to collaborate on Frontend based projects
 - 📫 How to reach 
 email: adeniranhopeadebayo@gmail.com
