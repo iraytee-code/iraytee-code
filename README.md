@@ -13,6 +13,8 @@ src="https://img.shields.io/twitter/follow/a_ireti_a?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/iraytee-code" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iraytee-code?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<a href="https://app.daily.dev/iraytee"><img src="https://api.daily.dev/devcards/379a4612f8a94e1199eba45c4821eb61.png?r=hpg" width="400" alt="adeniran 's Dev Card"/></a>
+
 ### Skills
 
 
