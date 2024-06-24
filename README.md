@@ -6,7 +6,8 @@ Frontend Developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adeniranhopeadebayo@gmail.com](mailto:adeniranhopeadebayo@gmail.com)
-* ✉️  I am Currently learning React Native
+* ✉️  You can view my portfolio at [https://iraytee.vercel.app](https://iraytee.vercel.app)
+* ✉️  I am Currently learning Backend development
 
 <a href="https://www.twitter.com/a_ireti_a" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/a_ireti_a?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
